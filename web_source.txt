@@ -1,0 +1,18 @@
+web sites:
+	https://coolors.co/
+	https://heroicons.com/
+	https://picsum.photos/
+	https://dribbble.com/signup/new
+	
+	https://ant.design/
+	https://material-ui.com/
+	https://bootswatch.com
+	https://tailwindcss.com/
+	https://headlessui.dev/
+	https://styled-components.com/
+	https://animate.style/
+	
+	https://sylius.com/fr/
+	https://strapi.io/
+	
+	https://flexboxfroggy.com/
