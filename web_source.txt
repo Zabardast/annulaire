@@ -1,7 +1,9 @@
 web sites:
 	https://coolors.co/
 	https://heroicons.com/
+	https://fontawesome.com/
 	https://picsum.photos/
+	https://unsplash.com/
 	https://dribbble.com/signup/new
 	
 	https://ant.design/
