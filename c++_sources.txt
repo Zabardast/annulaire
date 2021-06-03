@@ -1,0 +1,4 @@
+https://www.cplusplus.com/
+https://en.cppreference.com/w/
+
+https://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html
