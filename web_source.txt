@@ -16,5 +16,6 @@ web sites:
 	
 	https://sylius.com/fr/
 	https://strapi.io/
+	https://www.figma.com/
 	
 	https://flexboxfroggy.com/
