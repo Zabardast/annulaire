@@ -1,5 +1,7 @@
 https://www.cplusplus.com/
 https://en.cppreference.com/w/
 
+https://www.keithschwarz.com/interesting/
+
 https://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html
 https://refspecs.linuxbase.org/LSB_5.0.0/LSB-Core-generic/LSB-Core-generic/libcman.html
