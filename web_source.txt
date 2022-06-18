@@ -5,6 +5,7 @@ web sites:
 	https://picsum.photos/
 	https://unsplash.com/
 	https://dribbble.com/signup/new
+	https://www.flaticon.com/animated-icons
 	
 	https://ant.design/
 	https://material-ui.com/
