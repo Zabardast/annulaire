@@ -8,3 +8,5 @@ https://refspecs.linuxbase.org/LSB_5.0.0/LSB-Core-generic/LSB-Core-generic/libcm
 
 https://www.learncpp.com/
 https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+
+https://gcc.gnu.org/onlinedocs/libstdc++/manual/
