@@ -10,3 +10,4 @@ https://www.learncpp.com/
 https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
 
 https://gcc.gnu.org/onlinedocs/libstdc++/manual/
+https://h-deb.clg.qc.ca/
