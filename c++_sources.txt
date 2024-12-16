@@ -11,3 +11,5 @@ https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
 
 https://gcc.gnu.org/onlinedocs/libstdc++/manual/
 https://h-deb.clg.qc.ca/
+
+https://beej.us/guide/
